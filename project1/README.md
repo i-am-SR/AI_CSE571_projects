@@ -3,6 +3,8 @@ CSE 571 Artificial Intelligence Projects
 
 **Result of running autograder**
 
+
+<pre>
 srnew@srnew-VirtualBox:~/Desktop/CSE579AI/AI_CSE571_projects/PJ1-search/search$ python autograder.py
 Starting on 3-23 at 13:59:00
 
@@ -258,3 +260,4 @@ Total: 26/25
 
 Your grades are NOT yet registered.  To register your grades, make sure
 to follow your instructor's guidelines to receive credit on your project.
+</pre>
